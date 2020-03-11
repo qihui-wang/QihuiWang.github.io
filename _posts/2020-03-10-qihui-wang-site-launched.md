@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Qihui Wang's homepage, Launches Site"
 date: 2020-03-10
 ---
 
