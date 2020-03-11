@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Museum of Fine Arts, Boston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09390258789062,
+          42.33946625760965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Isabella Stewart Gardner Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09926700592041,
+          42.33840357433508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Harvard Art Museums"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11467361450195,
+          42.37416013396025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "The Harvard Museum of Natural History"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1140513420105,
+          42.379248437899065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Museum of Comparative Zoology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11342906951904,
+          42.379819063096335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"popupContent": "Clark university."},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.82318449020386,
+              42.25371190945952
+            ],
+            [
+              -71.82556629180908,
+              42.25190128722992
+            ],
+            [
+              -71.82590961456299,
+              42.25126596886579
+            ],
+            [
+              -71.82363510131836,
+              42.24947115991316
+            ],
+            [
+              -71.82116746902464,
+              42.250821242203344
+            ],
+            [
+              -71.82202577590942,
+              42.25166304359327
+            ],
+            [
+              -71.82209014892578,
+              42.25202835013482
+            ],
+            [
+              -71.82157516479492,
+              42.25242542006284
+            ],
+            [
+              -71.82318449020386,
+              42.25371190945952
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
